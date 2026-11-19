@@ -71,3 +71,5 @@ curl -X POST localhost:3000/auth/verify-otp -H 'content-type: application/json' 
 ***
 ### blog
 
+https://zenn.dev/knaka0209/scraps/3217c80c76b2e4
+
